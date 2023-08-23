@@ -1,3 +1,4 @@
 vendor/
 .vscode/
 package.lock
+composer.lock

@@ -250,3 +250,9 @@ document
     document.getElementById("test_form").submit();
   });
 ```
+
+---
+
+##### You can view the repository on Github at https://github.com/ahmedmohamed24/izam-quiz to run the test cases.
+
+![alt text](tests.png "Title")
